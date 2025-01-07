@@ -10,7 +10,7 @@ const weather=document.querySelector(".weather");
 
 
 //  var city;
-  const api_key="bdd6997b5b1b2d03a87a95217fef864e";
+ 
   const api="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
   async function checkWeather(city){
